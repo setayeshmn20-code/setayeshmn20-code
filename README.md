@@ -61,6 +61,7 @@ but also beautiful and enjoyable to use ✨
 
 | 🌸 Language | ✨ Level |
 |:---:|:---:|
+| 🇮🇷 Persian | Native |
 | 🇬🇧 English | IELTS 7.5 |
 | 🇫🇷 French | TCF C1 |
 
