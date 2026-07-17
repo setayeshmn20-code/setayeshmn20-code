@@ -1,73 +1,52 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=180&section=header&text=Setayesh%20🌸&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="160"/>
+
+# 🌸 Hi, I'm Setayesh 🐾
+
+### ✨ Creative Developer | UI Lover | Digital Dreamer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=24&duration=2500&pause=700&color=FF8ACD&center=true&vCenter=true&width=600&lines=Welcome+to+my+little+coding+world+%F0%9F%90%B1;Creating+beautiful+things+with+code+%E2%9C%A8;Designing+dreams+into+reality+%F0%9F%8C%B8;Powered+by+coffee+%E2%98%95"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&duration=2500&pause=700&color=FF69B4&center=true&vCenter=true&width=600&lines=Creative+Developer+✨;UI+%2F+UX+Enthusiast+🎨;Building+beautiful+digital+experiences+🌸"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=setayeshmn20-code&style=for-the-badge&color=ff69b4"/>
+<img src="https://komarev.com/ghpvc/?username=setayeshmn20-code&color=ffb6d9&style=flat-square&label=Visitors"/>
 
 </div>
 
 
 ---
 
-## 🌸 Hello, I'm Setayesh
+<img align="right" width="300" src="https://i.pinimg.com/originals/6c/5e/3d/6c5e3d6b6d6f6b9f9d7c4b4d8d4c9d4f.gif">
 
 
-<div align="center">
+## 🐱 A little about me
 
-🐱 Creative Developer  
-🎨 Design lover  
-💻 Technology enthusiast  
-☕ Coffee powered  
+Hi! I'm **Setayesh** 🌸
 
+A creative person who loves mixing **technology, design and imagination**.
 
-</div>
-
-
-I love creating digital experiences where **technology meets creativity**.
-
-My goal is to build things that are not only useful,
-but also beautiful and enjoyable ✨
+I enjoy creating things that are not only functional,
+but also beautiful and enjoyable to use ✨
 
 
----
+🐾 Developer at heart  
+🎨 UI & design enthusiast  
+🌱 Always learning something new  
+☕ Coffee + code = happiness  
 
-## 🐾 About Me
 
-
-```yaml
-name: Setayesh
-
-role:
-  - Developer
-  - Creative Designer
-
-personality:
-  - Curious
-  - Creative
-  - Always Learning
-
-loves:
-  - Cats 🐱
-  - Design 🎨
-  - Coding 💻
-  - Coffee ☕
-```
+<br clear="right">
 
 
 ---
 
-## 💻 Tech Stack
+## 🌷 My Skills Garden
 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,nodejs,figma,git,github"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,figma,git,github&theme=light"/>
 
 </div>
 
@@ -88,69 +67,57 @@ loves:
 </div>
 
 
----
-
-## 🚀 Projects
-
-
-<div align="center">
-
-
-🌱 **Growing ideas into real products**
-
-<br>
-
-✨ More creative projects coming soon...
-
-
-</div>
-
 
 ---
 
-## 🌙 Currently Learning
+## 🌙 My Coding Mood
 
 
 ```javascript
 const Setayesh = {
+    
+    currently: [
+        "Learning new technologies",
+        "Designing beautiful interfaces",
+        "Building creative ideas"
+    ],
 
-  learning: [
-    "Modern Web Development",
-    "UI/UX Design",
-    "Creative Coding"
-  ],
+    favoriteThings: [
+        "Cats 🐱",
+        "Coffee ☕",
+        "Design 🎨",
+        "Code 💻"
+    ],
 
-  creating: [
-    "Beautiful Interfaces",
-    "Digital Experiences"
-  ],
-
-  mindset:
-    "Keep learning, keep creating ✨"
-
+    dream:
+        "Create things that make people smile ✨"
 }
 ```
 
 
 ---
 
-## 📊 GitHub Stats
+## 🌸 GitHub Garden
 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=setayeshmn20-code&show_icons=true&theme=rose_pine&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=setayeshmn20-code&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000"/>
+
 
 <br>
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=setayeshmn20-code&theme=rose_pine&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=setayeshmn20-code&theme=rose_pine&hide_border=true&background=00000000"/>
+
 
 </div>
 
 
 ---
 
-## 🌸 Contribution Activity
+## 🐾 Little Pawprints
 
 
 <div align="center">
@@ -165,13 +132,19 @@ const Setayesh = {
 <div align="center">
 
 
-## 💗 Thanks for visiting my profile
+## 💌 Thanks for visiting my little world 🌸
+
+
+<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="100">
+
+
+<br>
 
 
 ✨ Keep creating beautiful things ✨
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6d9&height=120&section=footer"/>
 
 
 </div>
