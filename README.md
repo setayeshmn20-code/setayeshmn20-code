@@ -1,108 +1,150 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="160"/>
 
-<h1>🐾 Hi, I'm Setayesh ✨</h1>
+# 🌸 Hi, I'm Setayesh 🐾
 
-<h3>🌸 Creative Developer • Designer • Dream Builder</h3>
+### ✨ Creative Developer | UI Lover | Digital Dreamer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&duration=3000&pause=800&color=FF8ACD&center=true&vCenter=true&width=550&lines=Hello+Kitty+World+%F0%9F%90%B1;Coding+with+love+%E2%9C%A8;Creating+beautiful+things+%F0%9F%8C%B8;Coffee+%2B+Code+%3D+Magic+%E2%98%95"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=24&duration=2500&pause=700&color=FF8ACD&center=true&vCenter=true&width=600&lines=Welcome+to+my+little+coding+world+%F0%9F%90%B1;Creating+beautiful+things+with+code+%E2%9C%A8;Designing+dreams+into+reality+%F0%9F%8C%B8;Powered+by+coffee+%E2%98%95"/>
 
-<br/>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=setayeshmn20-code&label=Profile%20Views&color=ff8acb&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=setayeshmn20-code&color=ffb6d9&style=flat-square&label=Visitors"/>
 
 </div>
 
 
 ---
 
-<img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx/coding.gif"/>
+<img align="right" width="300" src="https://i.pinimg.com/originals/6c/5e/3d/6c5e3d6b6d6f6b9f9d7c4b4d8d4c9d4f.gif">
 
 
-## 🐱 About Me
+## 🐱 A little about me
 
-```yaml
-name: Setayesh
+Hi! I'm **Setayesh** 🌸
 
-role:
-  - Creative Developer
-  - UI/UX Enthusiast
+A creative person who loves mixing **technology, design and imagination**.
 
-personality:
-  - Creative
-  - Curious
-  - Always Learning
+I enjoy creating things that are not only functional,
+but also beautiful and enjoyable to use ✨
 
-favorite:
-  animal: Cat 🐈
-  color: Pink 🌸
-  drink: Coffee ☕
 
-passion:
-  - Technology
-  - Design
-  - Digital Art
-  - Building beautiful experiences
+🐾 Developer at heart  
+🎨 UI & design enthusiast  
+🌱 Always learning something new  
+☕ Coffee + code = happiness  
 
-🌷 Exploring new technologies
-🎨 Turning ideas into beautiful digital experiences
-🐾 Learning and improving every day
-✨ Creating my own little digital world
 
-<br clear="right"/>
-💻 Tech Garden 🌱
-<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,nodejs,figma,git,github&theme=light"/> </div>
-🌍 Languages & Achievements 🌸
-languages:
+<br clear="right">
 
-  English:
-    certification: IELTS
-    score: 7.5
 
-  French:
-    certification: TCF
-    level: C1
+---
 
-✨ Passionate about communication across cultures
-🌎 Learning languages to connect with the world
+## 🌷 My Skills Garden
 
-🌸 GitHub Stats
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=setayeshmn20-code&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000"/> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=setayeshmn20-code&theme=rose_pine&hide_border=true&background=00000000"/> </div>
-🐾 Contribution Garden
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=setayeshmn20-code&theme=github-light&hide_border=true"/> </div>
-🌙 Currently Working On
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,figma,git,github&theme=light"/>
+
+</div>
+
+
+---
+
+## 🌍 Languages
+
+
+<div align="center">
+
+
+| 🌸 Language | ✨ Level |
+|:---:|:---:|
+| 🇬🇧 English | IELTS 7.5 |
+| 🇫🇷 French | TCF C1 |
+
+
+</div>
+
+
+---
+
+## 🌙 My Coding Mood
+
+
+```javascript
 const Setayesh = {
-
-    learning: [
-        "Modern Web Development",
-        "Creative Coding",
-        "UI/UX Design"
+    
+    currently: [
+        "Learning new technologies",
+        "Designing beautiful interfaces",
+        "Building creative ideas"
     ],
 
-
-    creating: [
-        "Beautiful Interfaces",
-        "Creative Projects",
-        "Digital Experiences"
+    favoriteThings: [
+        "Cats 🐱",
+        "Coffee ☕",
+        "Design 🎨",
+        "Code 💻"
     ],
 
-
-    goals: [
-        "Growing as a developer",
-        "Building meaningful products"
-    ],
-
-
-    mood:
-        "🐱 Coding cat with coffee ☕"
-
+    dream:
+        "Create things that make people smile ✨"
 }
-🌸 Developer Philosophy
+```
 
-"Technology should not only work well,
-it should also feel beautiful." ✨
 
-💌 Connect With Me
-<div align="center"> <a href="https://github.com/setayeshmn20-code"> <img src="https://img.shields.io/badge/GitHub-setayeshmn20--code-black?style=for-the-badge&logo=github"/> </a> </div>
-<div align="center"> <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="120"/> <h3>🐾 Thanks for visiting my coding garden 🌸</h3> <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6d9&height=120&section=footer"/> </div> ```
+---
+
+## 🌸 GitHub Garden
+
+
+<div align="center">
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=setayeshmn20-code&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000"/>
+
+
+<br>
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=setayeshmn20-code&theme=rose_pine&hide_border=true&background=00000000"/>
+
+
+</div>
+
+
+---
+
+## 🐾 Little Pawprints
+
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=setayeshmn20-code&theme=github-light&hide_border=true"/>
+
+</div>
+
+
+---
+
+<div align="center">
+
+
+## 💌 Thanks for visiting my little world 🌸
+
+
+<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="100">
+
+
+<br>
+
+
+✨ Keep creating beautiful things ✨
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6d9&height=120&section=footer"/>
+
+
+</div>
